@@ -1,0 +1,34 @@
+R&R Hairdressing — Project Notes
+==================================
+
+Business: R&R Hairdressing
+Owners: Ryan & Rebecca (Becky)
+Address: 20 Abbey St, Coleraine, Londonderry BT52 1DU
+Phone: +44 28 7055 7077
+Email: Not provided
+Website (old): http://rrhairdressing.com/
+Facebook: facebook.com/RR-Hairdressing-487048718101585/
+
+Opening Hours:
+- Monday: Closed
+- Tuesday: 9am - 5:30pm
+- Wednesday: 9am - 5:30pm
+- Thursday: 9am - 8:00pm (late night)
+- Friday: 9am - 5:30pm
+- Saturday: 9am - 4:00pm
+- Sunday: Closed
+
+Services: Cutting, Colouring, Styling
+Combined experience: 20 years between Ryan & Rebecca
+
+Google Maps coords: 55.130635, -6.672288
+
+Web3Forms key: YOUR_WEB3FORMS_ACCESS_KEY
+GitHub repo: AeonReon/rr-hairdressing
+Vercel deployment: https://rr-hairdressing-one.vercel.app
+
+Notes:
+- No pricing listed on old site
+- No email address available
+- Facebook reviews available (Tori, Clare, Beca, Alex)
+- Old site credit: Connor Johnson
